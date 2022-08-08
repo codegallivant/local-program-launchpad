@@ -2,6 +2,12 @@
 
 User can quickly start scripts up from the system tray.
 
+## Prerequisites
+- Python 3+
+- pip modules
+	- pystray
+	- pillow 
+	- ctypes
 
 ## Setting it up
 1. Run the program. If you want, you can create a shortcut to it in the startup folder of your system.
