@@ -8,7 +8,7 @@ User can quickly start scripts up from the system tray.
 2. An icon will appear in the notification area (system tray). Right-click on the icon.
 3. A list of your scripts will be visible in the options. Clicking on any script will launch it immediately.
 
-## Adding your scripts' paths
+### Adding your scripts' paths
 In the `paths.json` file:
 ```json
 {
