@@ -8,6 +8,7 @@ User can quickly start scripts up from the system tray.
 	- pystray
 	- pillow 
 	- ctypes
+	- pyautogui
 
 ## Setting it up
 1. Run the program. If you want, you can create a shortcut to it in the startup folder of your system.
