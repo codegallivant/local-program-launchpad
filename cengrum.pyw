@@ -5,6 +5,7 @@ import pystray
 import json
 import PIL
 import PIL.Image
+import pyautogui as pag
 import ctypes
 
 
