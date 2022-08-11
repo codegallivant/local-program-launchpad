@@ -23,3 +23,6 @@ In the `paths.json` file:
 	"name_of_script2": "path/to/script2"
 }
 ```
+
+## Credits for external files
+- `favicon.ico` - [Flaticon](https://www.flaticon.com/free-icon/setting_2572695)
